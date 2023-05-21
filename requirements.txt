@@ -1,0 +1,8 @@
+tensorflow
+keras
+keras-rl2
+gym
+sklearn
+pandas
+numpy
+matplotlib
