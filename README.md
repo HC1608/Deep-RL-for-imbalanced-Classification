@@ -1,4 +1,4 @@
 # DRL-For-imbalanced-Classification
 
-This repository provides code for the DQNimb model proposed in paper [DRL for imbalanced classification](https://arxiv.org/abs/1901.01379?context=cs.LG):
+We have compared SMOTE, Conventional ML models and [DRL for imbalanced classification](https://arxiv.org/abs/1901.01379?context=cs.LG):
 
